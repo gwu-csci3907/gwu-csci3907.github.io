@@ -1,0 +1,54 @@
+---
+title: "Schedule"
+format: html
+---
+
+Sample class schedule [week-by-week]
+
+(The course schedule subject to changes during the semester)
+
+<table class="table table-hover w-auto">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Topic(s) and readings </th>
+      <th scope="col">$\mu$-LABs and Assignment(s) due</th>
+      <!--- <th scope="col">Column heading</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">Week 1 [01/19/2024]</th>
+      <td>
+        <ul>
+          <li>IoT and Edge Computing [The big pictures]</li> 
+          <li>Introduction to Raspberry Pi and Python programming</li> 
+          <li>Course overview, policies and deliverables</li>
+          <li>Lecture notes will be released</li>
+<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> --> 
+        </ul>  
+      </td>
+      <td>
+        <ul>
+          <li>Getting familiar with the Raspberry Pi 4B</li>
+          <li>Python programming using Thonny</li> 
+          <li>No HW assigned in the first week</li>
+<!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
+          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> --> 
+        </ul>
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+  </tbody>
+</table>
+
+
+
+<footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2024 All rights reserved</p>
+</footer>
