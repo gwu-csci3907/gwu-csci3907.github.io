@@ -1,0 +1,357 @@
+---
+title: "Schedule"
+format: html
+---
+
+Sample class schedule [week-by-week]
+
+(The course schedule subject to changes during the semester)
+
+<table class="table table-hover w-auto">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Topic(s) and readings </th>
+      <th scope="col">$\mu$-LABs and Assignment(s) due</th>
+      <!--- <th scope="col">Column heading</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      <th scope="row">Week 1 [01/19/2023]</th>
+      <td>
+        <ul>
+          <li>IoT and Edge Computing [The big pictures]</li> 
+          <li>Introduction to Raspberry Pi and Python programming</li> 
+          <li>Course overview, policies and deliverables</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+        </ul>  
+      </td>
+      <td>
+        <ul>
+          <li>Getting familiar with the Raspberry Pi 4B</li>
+          <li>Python programming using Thonny</li> 
+        </ul>
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr>
+      <th scope="row">Week 2 [01/27/2023]</th>
+      <td>
+        <ul>
+          <li>Overview of computing in IoT</li>
+          <li>Differences in Cloud and Fog computing</li>
+          <li>What is Edge Computing and Edge Compute device</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Setting up the Edge Lab</li>
+          <li>Understanding the Python installation on the Raspberry Pi</li>
+          <li>Some basic Python programming constructs</li>
+          <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
+          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> 
+        </ul>
+      </td>
+      <td>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">Week 3 [02/03/2023]</th>
+      <td>
+        <ul>
+          <li>Python skelton code for running programs on the Raspberry Pi</li>
+          <li>Recap of some programming constructs</li>
+          <li>Using Thonny to blink LEDs</li>
+          <li>Using bash script to blink LEDs</li>
+          <li> Blinking LEDs on boot</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab (Blinking LEDs)</li> 
+          <li>Setting up a Python virtual environment [venv] and it's benefits</li>
+          <li>Installing Python GPIO packages with pip in [venv]</li>
+          <li>Configuring the GPIO interface on your Raspberry Pi</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
+          <li>HW 1 due</li>
+          <li><a href="https://drive.google.com/drive/folders/1CxLrXRJWuxXs9b0EGe7dtjVMMIDOgh7P?usp=sharing" target="_blank">HW 2 assigned</li> 
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-secondary">
+      <th scope="row">Week 4 [02/10/2023]</th>
+      <td>
+        <ul>
+          <li>IoT Architecture and Ecosystem</li>
+          <li>Layers in IoT systems - 3 level  layer model</li>
+          <li>Sensors</li>
+          <li>Sensor types and considerations</li>
+          <li>Understanding Analog and Digital Signals</li>
+          <li>Fundamentals of signal visualization in time and frequency</li>           
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab (Ultrasound sensors)</li>
+          <li>Proxmity sensing using Thonny IDE</li>
+          <li>Proxmity sensing using bash script</li>
+          <li>Proxmity sensing on boot</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 2 due</li>
+          <li><a href="https://drive.google.com/drive/folders/1GBfK0bdTBG1bZ6pfE7bMp7C-0M_ezPw5?usp=share_link" target="_blank">HW 3 assigned</li> 
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-success">
+      <th scope="row">Week 5 [02/17/2023]</th>
+      <td>
+        <ul>
+          <li>Guest lecture:  **Anatomy of a real life IoT attack - Side Channel Attack (SCA) Analysis** by <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
+          target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
+          target="_blank">ARM</a></li>
+          <li>Practical introduction to MQTT</li>
+          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"target="_blank"> A drag-and-drop IoT project builder</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Raspberry Pi LEDs controlled by Cayenne</li>
+          <li>In-class Raspberry Pi Lab with senseHAT</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
+          <li>HW 3 due</li>
+          <li>Midterm projects released</li>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">Week 6 [02/24/2023]</th>
+      <td>
+        <ul>
+          <li>Guest lecture:  **Intersection of Industry 4.0 and Technology for Manufacturing in day-to-day applications** by <a href="/Lectures_Speakers/HadiImran-bio-Feb2023.pdf"
+          target="_blank">Hadi Mohammed</a>, Digital Technologies Director of Factory 4.0 <a href="https://prattwhitney.com"
+          target="_blank">Pratt and Whitney</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
+          <li> Discussion of Midterm Projects and setting course for updates and reporting</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>dweet.io - it's like the Twitter of Things <a href="https://dweet.io"target="_blank"> dweet</a></li>
+          <li>Fetching data from dweet</li>
+          <li>dweet an LED</li>
+          <li>Working with senseHAT data and matplotlib</li>
+          <li>Writing senseHAT data to CSV files</li>
+          <li>Emails alerts from senseHAT data</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 4 assigned: Presentation of midterm project progress</li>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-warning">
+      <th scope="row">Week 7 [03/03/2023]</th>
+      <td>
+        <ul>
+          <!-- <li>Basics of Matrices [Warming up to numerical data]</li> -->
+          <!-- <li>Exploring numerical data using matrices</li> -->
+          <li> **Midterm Project Progress Mentoring** by Catherine Meadows, CS Department Graduate student </li>
+          <li>Guest lecture: **Edge Cloud** by <a href="https://www.seas.gwu.edu/timothy-wood"
+          target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes & Presentation slide decks from students</a></li>  
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <!-- <li>Handling data arrays using Python</li> -->
+          <li>In-class demo Raspberry Pi: PiNOIR Cameras</li>
+          <!-- <li>Image acquisition and processing with OpenCV and Raspberry Pi</li> -->
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 4 due: Uploaded Presentation</li>
+          <li>HW 5 assigned: In-class Midterm Project Demonstrations</li> 
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-info">
+      <th scope="row">Week 8 [03/10/2023]</th>
+      <td>
+        <ul>
+          <li>IoT Taxonomy - 5 layer model</li>     
+          <li>Service-oriented model of IoT</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>   
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li> In-class Flask API development</li>
+          <li> Discussion on what to expect in the remaining portion of the course </li>
+          <!-- <li>Using sudo within virtual environments</li> -->
+          <!-- <li>HW 6 due</li> -->
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 5 due: Graded in-class Midterm Project Demonstrations</li>           
+          <!-- <li>HW 6 assigned - Demonstration of Raspberry Pi Lab with SenseHat and Flask API</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-dark">
+      <th scope="row">03/13/2022 to 03/17/2023</th>
+      <td colspan="2">Spring Break. No class this week</td> 
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-light">
+      <th scope="row">Week 9 [03/24/2023]</th>
+      <td>
+        <ul>
+          <li>Introduction to ESP32 microcontroller</li>
+          <li>Understand key differences between Microprocessors and Microcontrollers</li>
+          <li>Introduction to Micropython</li>
+          <li>Setting up Micropython interpreter in Thonny IDE </li>
+          <li>Review of final project proposals</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Flashing the ESP32 microcontroller</li>
+          <li>In-class Raspberry Pi Lab with ESP32</li>
+          <li>Push-botton LEDs with ESP32 and Raspberry Pi 3B+</li>
+          <li>Webserver Accesspoint with ESP32 and Raspberry Pi 3B+</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <!-- <li>HW 6 due</li> -->
+          <!-- <li>HW 8 assinged</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">Week 10 [03/31/2023]</th>
+      <td>
+        <ul>
+          <!-- <li>Details on IoT Communication layers</li> -->
+          <!-- <li>Working with Scikit</li> -->
+          <li>Working with SciPy</li>
+          <li>Practical introduction to Mosquitto MQTT</li>
+          <li>Practical introduction to linear algebra in the Edge compute framework</li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/NeerajPaliwal-bio-Jan2023.pdf" target="_blank">Neeraj Paliwal</a>, General Manager and VP of Security IP, <a href="https://www.rambus.com" target="_blank">Rambus</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab - Installation of Mosquitto MQTT</li>
+          <li>Data smoothing with Scipy library in Python</li>
+          <li>Examples: Moving average and Savitzky-Golay filters</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <!-- <li>HW 8 due</li> -->
+          <!-- <li>HW 6 assinged</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-active">
+      <th scope="row">Week 11 [04/07/2023]</th>
+      <td>
+        <ul>
+          <!-- <li>Actuator types and characteristics</li> -->
+          <li>Case study: IoT in Vehicular Applications</li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/RJS-bio-Jan2023.pdf" target="_blank">Robert Shaughnessy</a>, Senior Vice President, <a href="https://grimmcyber.com" target="_blank">GRIMM Cyber</a></li>
+          <li>Practical introduction to Fourier analysis and filtering for Edge Compute Applications</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Practical Introduction to <a href="https://thingspeak.com/login?skipSSOCheck=true" target="_blank">ThingSpeak IoT Analytics platform</a></li>
+          <li>In-class Raspberry Pi Lab with MQTT using SenseHat and ThingSpeak</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <!-- <li>HW 9 due</li> -->
+          <!-- <li>HW 10 assinged</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-success">
+      <th scope="row">Week 12 [04/17/2023]</th>
+      <td>
+        <ul>
+          <li>Case study - continued </li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/ChrisRodley-bio-Jan2023.pdf" target="_blank">Chris Rodley</a>, CEO and founder of Snap Information Technologies (SnapIT), Chairman of Teem Fish Monitoring, Director of Daily Catch and Snap Group LP partner and Tedx speaker, <a href="https://www.snapit.group" target="_blank">SnapIT</a></li>
+          <li>Practical Introduction to Image processing and Filtering for Edge Compute Applications</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Practical Introduction to OpenCV library in Python on the Raspberry Pi 3B+</li>
+          <li>In-class Raspberry Pi Lab with PiCamera using OpenCV library</li>
+          <li>Sobel, Laplacian, Guassian filtering on Raspberry Pi 3B+</li>
+          <li>Edge detection using thresholding and Otsu's method on Raspberry Pi 3B+</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>          
+          <!-- <li>HW 10 due</li> -->
+          <!-- <li>HW 11 assinged</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">Week 13 [04/21/2023]</th>
+      <td>
+        <ul>
+          <li>Case study: IoT in Environmental monitoring</li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/RemyPottier-bio-Jan2023.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab</li>
+          <!-- <li>HW 11 due</li> -->
+          <!-- <li>HW 12 assinged</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-warning">
+      <th scope="row">Week 14 [04/28/2023]</th>
+      <td>
+        <ul>
+          <li>Paradigms, Challenges in IoT technologies</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Final Project Presentations and Demonstrations</li>
+          <li>Final Projects due</li>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+    <tr class="table-dark">
+      <th colspan="3">NOTE: In accordance with university policy, the final exams will be given during the final exam period and not the last week of the semester</th>
+      <!--- <td>Column content</td>
+      <td>Column content</td> -->
+      <!--- <td>Column content</td> -->
+    </tr>
+  </tbody>
+</table>
+
+
+
+<footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2022 All rights reserved</p>
+</footer>
