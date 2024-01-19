@@ -3,7 +3,7 @@ title: "Announcements"
 format: html
 ---
 
-To be updated on as an when we get to hear exciting things during the course!
+To be updated as and when we get to hear exciting things during the course!
 
 
 <div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
