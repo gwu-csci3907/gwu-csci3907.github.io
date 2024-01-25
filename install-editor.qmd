@@ -2,6 +2,10 @@
 
 <small>*Editors, Remote Access Software etc.*</small>
 
+::: {.callout-warning appearance="simple"}
+Review **installation Steps 0 and 1**, below and fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9).
+:::
+
 ## *What is an Editor?*
 
 In the world of programming, an editor is more than just a text processor. It's your creative workspace where you bring your code to life. Here are some key aspects of code editors:
@@ -42,9 +46,10 @@ These tools will empower you throughout your CSCI4907 journey, helping you write
 
 - **Step 2:** [Connect to the Raspberry Pi](realvnc-mac-connect.qmd)
 
-- **Step 3**: [Install VS Code for Mac](vscode-mac.qmd) [Optional]
+- **Step 3**: [Install Anaconda for Mac](anaconda-mac.qmd) [Optional]
 
-- **Step 4**: [Install Anaconda for Mac](anaconda-mac.qmd) [Optional]
+- **Step 4**: [Install VS Code for Mac](vscode-mac.qmd) [Optional]
+
 <!-- - **Step 5:** [Install Python and Jupyter without Anaconda](python3-mac.qmd) -->
 
 #### **Windows:**
@@ -71,7 +76,7 @@ Follow the respective installation instructions and embark on your coding journe
 
 Once you have your preferred editor installed, you're ready to start coding. Happy coding!
 
-Once you've finished **installation Steps 0 and 1**, fill out the [Installation Check-In form](https://forms.gle/Y6Yi9HTZSjD1MPHb7) and the [CS1010 Entry form](https://forms.gle/EoKoGY5KHMi4wEBs7). Both the forms are **MANDATORY** to be filled out before the first class.
+Once you've finished **installation Steps 0 and 1**, fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9).
 
 <!-- ### You will be automatically entered into a raffle in the first class of CS1010 on 10/06/2023. -->
 
