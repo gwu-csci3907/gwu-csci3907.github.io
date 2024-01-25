@@ -60,8 +60,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>IoT and Edge Computing [The big pictures]</li> 
           <li>Introduction to Raspberry Pi and Python programming</li> 
           <li>Course overview, policies and deliverables</li>
-          <li>Lecture notes will be released</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> --> 
+          <li><a href="Week0.qmd" target="_blank">Week-0 Notes</a></li>
+          <!-- ![Week-0 Notes](Week0.qmd) -->
         </ul>  
       </td>
       <td>

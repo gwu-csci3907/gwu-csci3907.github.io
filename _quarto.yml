@@ -9,11 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - policies.qmd
       - text: "Getting Started"
         menu:
           - href: install-editor.qmd
       - schedule.qmd
-      - policies.qmd
+      - text: "Notes"
+        menu: 
+          - href: Week0.qmd
       - weekly.qmd
       - resources.qmd
       - instructor.qmd
