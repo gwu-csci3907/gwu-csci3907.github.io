@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Getting Started"
+        menu:
+          - href: install-editor.qmd
       - schedule.qmd
       - policies.qmd
       - weekly.qmd

@@ -1,0 +1,64 @@
+---
+title: "RealVNC Installation Guide for Windows"
+format: html
+---
+
+# RealVNC Installation Guide for Windows
+
+This guide will walk you through the process of installing and setting up RealVNC on your Windows computer to enable remote desktop access.
+
+## Prerequisites
+
+Before you begin, ensure you meet the following requirements:
+
+- A Windows computer running a supported version of Windows (e.g., Windows 10, Windows 8, Windows 7).
+- Internet access.
+
+### 1. Download RealVNC
+
+Open your web browser and go to the RealVNC website at [https://www.realvnc.com/en/connect/download/combined/](https://www.realvnc.com/en/connect/download/combined/). Click on the "Download VNC Viewer" button.
+
+![Download VNC Viewer](images/screenshots/realvnc-windows/screenshot-1.png)
+
+
+### 2. Install VNC Viewer
+
+Locate the downloaded installer file (e.g., `VNC-Viewer-*.exe`) and double-click it to run the installer.
+Once the installation is complete, click "Finish" to exit the installer.
+
+![Open Installer](images/screenshots/realvnc-windows/screenshot-5.png)
+
+![Run Installer](images/screenshots/realvnc-windows/screenshot-2.png)
+
+### 3. Follow Installation Wizard
+
+The installation wizard will guide you through the installation process. Click on "Customize installation" and "Deselect RealVNC Server" and hit "Install".
+
+![Customize Installation](images/screenshots/realvnc-windows/screenshot-3.png)
+
+![Deselect RealVNC Server](images/screenshots/realvnc-windows/screenshot-4.png)
+
+
+### 4. Launch RealVNC Viewer
+
+Once the installation is complete, you can launch RealVNC Viewer by clicking on the "Launch" button or launch it from Start. If prompted to Log in/Sign Up hit "Cancel", you're **<u>NOT REQUIRED</u>** to sign up.
+
+![Open RealVNC](images/screenshots/realvnc-mac/screenshot-6.png)
+
+![Don't Sign up](images/screenshots/realvnc-windows/screenshot-6.png)
+
+# Conclusion
+
+Congratulations! You have successfully installed and set up RealVNC Viewer on your Windows computer. You can now use it to connect to remote computers and access their desktops.
+
+For more advanced features and settings, refer to the [RealVNC documentation](https://www.realvnc.com/documentation/viewer/latest/).
+
+If you encounter any issues or have questions, please refer to the RealVNC support resources for assistance.
+
+<br><br>
+<footer>
+  <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2023 All rights reserved</small></small></small></small></p>
+</footer>

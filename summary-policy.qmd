@@ -1,0 +1,46 @@
+## Class Policy on Collaboration
+
+- Your instruction will address HW-related questions for up to one-week after the due date. 
+- You may study in groups, but you may *<span style="color: red;"><u>not</u></span>* discuss HWs among yourselves.
+- Each student is expected to work out the HW programs *<u>independently</u>*.
+- Under *<u>no circumstances</u>* may you look at another student's HWs. 
+- You are encouraged 
+    - to discuss the class material on the [course website](https://gwu-csci1010.github.io/) and
+    - post your queries on slack for your instructors and peers to comment
+
+- *<span style="color: red;">You are not allowed to</span>*
+    - discuss HW problems nor give out hints to the HW problems or
+    - provide hints or suggestions on slack or
+    - discuss projects, tests, exams and quizzes, unless explicitly assigned a group quiz or a group HW.
+        - NOTE: You will be given opportunities to work in groups
+    - use chatGPT or other generate AI tools to complete your HWs, projects, tests, exams and quizzes unless explicity permitted by the instruction team
+
+::: {.callout-important}
+All violations will be treated as violations of the **Code of Academic Integrity**
+:::
+
+## [Justice, Equity, Diversity, Inclusion (JEDI)](https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-jedi-committee)
+- It is our intention that this course serve the needs of **<u>all</u>** students who have the prerequisites.
+- We believe that the diversity of background and of perspective among the students and the instructional team is an asset.
+- We will strive to present material that is respectful of the diverse backgrounds and characteristics of the student body and the instructional team.
+- Each of us, whether student or instructional team member, is expected to treat all others with respect. Disrespect in any form will not be tolerated. 
+- Please contact Bulusu with any concerns or suggestions. 
+
+## University Policies
+See [Course policies](policies.qmd) section on the course website more information
+
+- <span style="color: red;">Course materials are only for the use of CS1010 Fall 2023.</span>
+    - Subject to disciplinary action if you share any of this material
+- If you wish to avail of a <span style="color: red;">religious holiday</span>, you need to tell me in the first week of class.
+- <span style="color: red;">Disability Support Services (DSS) 202-994-8250</span>
+    - Any student who may need an accommodation based on the potential impact of a disability should contact Disability Support Services to establish eligibility and to coordinate reasonable accommodations. [disabilitysupport.gwu.edu](https://disabilitysupport.gwu.edu/)
+- For other policies, including academic integrity, counselling, virtual academic support, safety and security, see [University Policies](https://gwu-csci1010.github.io/class-policy.html#university-policies) under the course policies-section on the [course webpage](https://gwu-csci1010.github.io/policies.html).
+
+
+<br><br>
+<footer>
+  <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2023 All rights reserved</small></small></small></small></p>
+</footer>
