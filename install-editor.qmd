@@ -3,7 +3,7 @@
 <small>*Editors, Remote Access Software etc.*</small>
 
 ::: {.callout-warning appearance="simple"}
-Review and do the **installation steps 0 and 1**, below and fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9){:target="_blank"}.
+Review and do the **installation steps 0 and 1** below, and fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9).
 :::
 
 ## *What is an Editor?*
@@ -76,7 +76,7 @@ Follow the respective installation instructions and embark on your coding journe
 
 Once you have your preferred editor installed, you're ready to start coding. Happy coding!
 
-Once you've finished **installation Steps 0 and 1**, fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9){:target="_blank"}.
+Once you've finished **installation Steps 0 and 1**, fill out the [Installation Check-In form](https://forms.gle/qV5qw3fxBYJnYMNR9).
 
 <!-- ### You will be automatically entered into a raffle in the first class of CS1010 on 10/06/2023. -->
 
