@@ -17,6 +17,7 @@ website:
       - text: "Notes"
         menu: 
           - href: Week0.qmd
+          - href: Week1.qmd
       - weekly.qmd
       - resources.qmd
       - instructor.qmd
