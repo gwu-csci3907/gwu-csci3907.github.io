@@ -4,7 +4,7 @@ format html:
 ---
 **Referencing this presentation:**
 
-Bulusu, Kartik V. (2024, January 19). Week-1 Presentation: CSCI4907 Introduction to IoT and Edge Computing Applications [Intro. to IoT and Edge Comput. App.]. Department of Computer Science, The George Washington University. [https://gwu-csci3907.github.io](https://gwu-csci3907.github.io)
+Bulusu, Kartik V. (2024, January 26). Week-1 Presentation: CSCI4907 Introduction to IoT and Edge Computing Applications [Intro. to IoT and Edge Comput. App.]. Department of Computer Science, The George Washington University. [https://gwu-csci3907.github.io](https://gwu-csci3907.github.io)
 
 ::: {.callout-note appearance="simple"}
 **Course materials developed by Prof. Kartik Bulusu for CSCI 4907-Spring 2024.**
