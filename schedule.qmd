@@ -68,7 +68,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>
           <li>Getting familiar with the Raspberry Pi 4B</li>
           <li>Python programming using Thonny</li> 
-          <li>No HW assigned in the first week</li>
+          <li><strong>No HW assigned in this week</strong></li>
 <!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> --> 
         </ul>
@@ -95,6 +95,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Understanding the Python installation on the Raspberry Pi</li>
           <li>Some basic Python programming constructs</li>
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
+          <li><strong>No HW assigned in this week</strong></li>
 <!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li>  -->
         </ul>
@@ -111,7 +112,6 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Recap of some programming constructs</li>
           <li>Using Thonny to blink LEDs</li>
           <li>Using bash script to blink LEDs</li>
-          <li> Blinking LEDs on boot</li>
 <!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>  -->
         </ul>
       </td>
@@ -121,6 +121,9 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Setting up a Python virtual environment [venv] and it's benefits</li>
           <li>Installing Python GPIO packages with pip in [venv]</li>
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
+          <li style="color:yellow"><strong>Blinking LEDs on boot [Graded Lab Activity]</strong></li>
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:yellow;" target="_blank">HW1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW1 Assigned: 02/04/2024; HW1 Due: 02/09/2024</strong>
+
           <!-- <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li>HW 1 due</li>
           <li><a href="https://drive.google.com/drive/folders/1CxLrXRJWuxXs9b0EGe7dtjVMMIDOgh7P?usp=sharing" target="_blank">HW 2 assigned</li> --> 
@@ -148,7 +151,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>In-class Raspberry Pi Lab (Ultrasound sensors)</li>
           <li>Proxmity sensing using Thonny IDE</li>
 <!--           <li>Proxmity sensing using bash script</li>
- -->          <li>Proxmity sensing on boot</li>
+ -->      <li style="color:red"><strong>Proxmity sensing on boot [Graded Lab Activity]</strong></li>
+           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW2 Assigned: 02/09/2024; HW2 Due: 02/16/2024</strong>
 <!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 2 due</li>
           <li><a href="https://drive.google.com/drive/folders/1GBfK0bdTBG1bZ6pfE7bMp7C-0M_ezPw5?usp=share_link" target="_blank">HW 3 assigned</li>  -->
@@ -175,6 +179,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
+         <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW3: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW3 Assigned: 02/16/2024; HW2 Due: 02/23/2024</strong>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -192,6 +197,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
+         <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW4 Assigned: 02/23/2024; HW2 Due: 03/01/2024</strong>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
