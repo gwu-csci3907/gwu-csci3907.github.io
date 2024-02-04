@@ -19,6 +19,8 @@ website:
           - href: Week0.qmd
           - href: Week1.qmd
           - href: Week2.qmd
+          - href: Spring2023_MidtermProjects.qmd
+
 
       - weekly.qmd
       - resources.qmd
