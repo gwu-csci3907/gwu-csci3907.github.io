@@ -155,7 +155,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Proxmity sensing using Thonny IDE</li>
 <!--           <li>Proxmity sensing using bash script</li>
  -->      <li style="color:red"><strong>Proxmity sensing on boot [Graded Lab Activity]</strong></li>
-           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW2 Assigned: 02/09/2024; HW2 Due: 02/16/2024</strong>
+           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2.1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW2.1 Assigned: 02/09/2024; HW2.1 Due: 02/16/2024</strong>
+           <li><strong><a href="Downloads/Midterm_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW2.2: Midterm Project Proposal [Download Template]</a></strong></li> <strong>HW2.2 Assigned: 02/09/2024; HW2.2 Due: 02/16/2024</strong>
 <!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 2 due</li>
           <li><a href="https://drive.google.com/drive/folders/1GBfK0bdTBG1bZ6pfE7bMp7C-0M_ezPw5?usp=share_link" target="_blank">HW 3 assigned</li>  -->
