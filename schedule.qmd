@@ -119,10 +119,10 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
+          <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li>In-class Raspberry Pi Lab (Blinking LEDs)</li> 
           <li>Setting up a Python virtual environment [venv] and it's benefits</li>
           <li>Installing Python GPIO packages with pip in [venv]</li>
-          <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li style="color:yellow"><strong>Blinking LEDs on boot [Graded Lab Activity]</strong></li>
           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:yellow;" target="_blank">HW1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW1 Assigned: 02/04/2024; HW1 Due: 02/09/2024</strong>
 
