@@ -143,9 +143,9 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Sensor types and considerations</li>
           <li>Understanding Analog and Digital Signals</li>
           <li>Fundamentals of signal visualization in time and frequency</li>      
-          <li>Guest lecture: **Designing high-confidence embedded systems -- operating systems and real-time** by <a href="https://faculty.cs.gwu.edu/gparmer/"
+          <li>Guest lecture: <a href="Week3-Parmer-Lecture.qmd" target="_blank">**Designing high-confidence embedded systems -- operating systems and real-time**</a> by <a href="https://faculty.cs.gwu.edu/gparmer/"
           target="_blank">Prof. Gabe Parmer</a>, CS Department, GWU. <a href="https://composite.seas.gwu.edu" target="_blank">Parmer Lab</a></li>     
-          <li><a href="Spring2023_MidtermProjects.qmd" style="color:red;" target="_blank">Spring2023 Midterm Project for Review</a></li>
+          <li><a href="Spring2023_MidtermProjects.qmd" style="color:red;" target="_blank">Spring 2023 Midterm Project for Review</a></li>
 <!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>  -->
         </ul>
       </td>

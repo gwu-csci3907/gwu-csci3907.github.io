@@ -20,6 +20,8 @@ website:
           - href: Week1.qmd
           - href: Week2.qmd
           - href: Spring2023_MidtermProjects.qmd
+          - href: Week3.qmd
+          - href: Week3-Parmer-Lecture.qmd
 
 
       - weekly.qmd

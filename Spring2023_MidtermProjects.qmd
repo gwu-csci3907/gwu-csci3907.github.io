@@ -1,5 +1,5 @@
 ---
-title: "Spring2023-MidtermProjects"
+title: "Spring 2023 Midterm Projects"
 format html:
 ---
 **Referencing this presentation:**
