@@ -72,7 +72,7 @@ Grades are "rounded up" to the nearest integer.
 
 <div class="row">
   <div class="column">
-<p>This course requires a combination of individual and group work entailing hands-on activities and frequent interactions with the instructional team. The lectures, labs and office hours are available for interacting with your group and the instruction team. In addition, a course messaging platform (Slack) is made available for the students to interact in groups and with the instruction team asynchronously. We ask that all students adhere to the course policies throughout the duration of the semester.</p>
+<p>This course requires a combination of individual and group work entailing hands-on activities and frequent interactions with the instructional team. The lectures, labs and office hours are available for interacting with your group and the instructor. We ask that all students adhere to the course policies throughout the duration of the semester.</p>
  </div>
 
  <div class="column">
@@ -85,8 +85,18 @@ Grades are "rounded up" to the nearest integer.
 
 - **Be respectful:** Listen to the instructors. Keep an open mind to the course material presented. Limit the use of personal devices. Be aware that you are working in a group.
 - **Be responsible:** Arrive on time. Submit the course deliverables on time. Help your team members
-- **Be a communicator:** Observe, Ask questions and Try out the materials presented during the course. Communicate with your team effectively and politely.
+- **Be a communicator:** Observe, Ask questions and Try out the materials presented during the course. Communicate with your team effectively and politely. Email informing me about your absence is necessary, if you are not planning to attend the Friday-lectures for the course. The requests about making up graded-labs or any in-class activities will be considered but with prior initmation and time constraints at my end.
 - **Be a problem solver:** Explore options to complete hands-on tasks. Make your own notes. Stay positive about the course outcomes.
+
+## Communication during extenuating circumstances
+When you need to communicate with us directly regarding extenuating circumstances, please use [**Blackboard**](https://blackboard.gwu.edu) to send email or email the instructor directly. 
+
+- The instructor will check emails on Mondays and may respond at their earliest convenience. 
+
+## Late work policy
+Late work is not accepted, with the following exceptions:
+
+- Extensions will be granted should there arise circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time. Notify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing. To ensure fairness toward all students, I will request documentation of such circumstances.
 
 ## Justice, Equity, Diversity, Inclusion (JEDI) statement
 
@@ -105,7 +115,14 @@ Grades are "rounded up" to the nearest integer.
  <p>Please let the main instructor know ways to improve the effectiveness of the course. See [JEDI resources](https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-resources) for student resources. </p>
 
 ## Use of chatGPT or any other AI-based models for in-class work and deliverables
-The use chatGPT or any other AI-based models will be explicitly permitted by the instructor on select assignments and programming projects. In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated. 
+**The use of chatGPT or any other generative AI-based models is not permitted by the instructor.**
+
+- If there are instances where chatGPT or any other generative AI-based models are allowed they will be explicitly communicated by the instructor on select assignments and programming projects. 
+
+- In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated. 
+
+- Any violations of the aforementioned policy will be reviewed under the [Academic Integrity Code](#academic-integrity-code) and [Student Rights and Responsibities](https://studentconduct.gwu.edu/code-student-conduct)
+
 Furthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be ammended according to the findings. The findings of any such discussions will be summarized and placed in-context of the [Academic Integrity Code](#academic-integrity-code)
 
 <br>
