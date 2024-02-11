@@ -4,7 +4,7 @@ format: html
 ---
 
 ---
-title: "Week3: Prof. Parmer's Guest Lecture"
+title: "Week-3: Prof. Parmer's Guest Lecture"
 format html:
 ---
 **Referencing this presentation:**
