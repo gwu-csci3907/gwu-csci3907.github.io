@@ -5,6 +5,9 @@ project:
 website:
   title: "CSCI 4907"
   navbar:
+    # background: primary
+    # foreground: secondary
+    # fontcolor: black
     left:
       - href: index.qmd
         text: Home
