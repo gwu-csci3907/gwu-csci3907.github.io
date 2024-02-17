@@ -1,9 +1,4 @@
 ---
-title: "Untitled"
-format: html
----
-
----
 title: "Week-3: Prof. Parmer's Guest Lecture"
 format html:
 ---
