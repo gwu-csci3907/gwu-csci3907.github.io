@@ -201,12 +201,34 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>Guest lecture:  **Intersection of Industry 4.0 and Technology for Manufacturing in day-to-day applications** by <a href="/Lectures_Speakers/HadiImran-bio-Feb232024.pdf"
           target="_blank">Hadi Mohammed</a>, Digital Technologies Director of Factory 4.0 <a href="https://prattwhitney.com"
           target="_blank">Pratt and Whitney</a></li> 
+          <li>IoT Taxonomy - 5 layer model</li>     
+          <li>Service-oriented model of IoT</li>
+          <li> Discussion of Midterm Projects and setting course for updates and reporting</li>
 
         </ul>
       </td>
       <td>
         <ul>
-         <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW4 Assigned: 02/23/2024; HW2 Due: 03/01/2024</strong>
+          <li style="color:black"><strong>In-class Flask API development [Graded Lab Activity]</strong></li>       
+         <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW4 Assigned: 02/23/2024; HW4 Due: 03/01/2024</strong>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+
+<tr class="table-secondary">
+      <th scope="row">Week 6 [02/23/2024]</th>
+      <td>
+        <ul>
+          <li>Guest lecture:  **Empowering IoT and Edge Computing with Design Thinking** by <a href="/Lectures_Speakers/Nuzum-bio-Feb2024.pdf"
+          target="_blank">Scott Nuzum</a>, Senior Leader <a href="https://www.innovyzusa.com"
+          target="_blank">Innovyz USA</a></li> 
+
+        </ul>
+      </td>
+      <td>
+        <ul>      
+         <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW5: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW5 Assigned: 03/01/2024; HW5 Due: 02/08/2024</strong>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
