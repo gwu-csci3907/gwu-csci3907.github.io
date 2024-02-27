@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>CSCI 4907 - Schedule</title>
+<title>CSCI 4907 - Week-5: Hadi Mohammad’s Guest Lecture</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -141,7 +112,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./schedule.html" aria-current="page"> 
+    <a class="nav-link" href="./schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -222,7 +193,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Schedule</h1>
+<h1 class="title">Week-5: Hadi Mohammad’s Guest Lecture</h1>
 </div>
 
 
@@ -239,383 +210,19 @@ window.Quarto = {
 </header>
 
 
-<p>Sample class schedule [<em>week-by-week</em>]</p>
-<div class="callout callout-style-simple callout-warning">
+<p><strong>This presentation for internal viewing and referencing only. Redistribution of the presentation is not permitted.</strong></p>
+<p>Mohammad, Hadi (2024, February 23). Industrial Internet of Things (IIOT), CSCI4907 Introduction to IoT and Edge Computing Applications [Intro. to IoT and Edge Comput. App.]. Department of Computer Science, The George Washington University. <a href="https://gwu-csci3907.github.io">https://gwu-csci3907.github.io</a></p>
+<div class="callout callout-style-simple callout-note">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-body-container">
-<p><strong>The course schedule is subject to changes during the semester.</strong></p>
+<p><strong>This presentation was made by Hadi Mohammad, Digital Technologies Director of Factory 4.0, Pratt &amp; Whitney for CSCI 4907-Spring 2024.</strong></p>
 </div>
 </div>
 </div>
-<!-- ::: {.callout-important appearance="default" title="Final Project Due Date"}
-The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check-out the schedule to learn more about where to [submit all the deliverables](schedule.qmd#final-project).
-::: -->
-<style>
-        .thumbnail {
-            width: 100px; 
-            cursor: pointer;
-        }
-
-        #popupContainer {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.7);
-            justify-content: center;
-            align-items: center;
-        }
-
-        #popupImage {
-            max-width: 80%;
-            max-height: 80%;
-        }
-    </style>
-<table class="table table-hover w-auto">
-<colgroup>
-<col style="width:3%">
-<col style="width:50%">
-<col style="width:47%">
-<!-- <col style="width:32%"> -->
-</colgroup>
-<thead>
-<tr>
-<th scope="col">
-Date
-</th>
-<th scope="col">
-Topic(s) and readings
-</th>
-<th scope="col">
-<span class="math inline">\(\mu\)</span>-LABs and Assignment(s) due
-</th>
-<!--- <th scope="col">Column heading</th> -->
-</tr>
-</thead>
-<tbody>
-<tr class="table-active">
-<th scope="row">
-Week 0 [01/19/2024]
-</th>
-<td>
-<ul>
-<li>
-IoT and Edge Computing [The big pictures]
-</li>
-<li>
-Introduction to Raspberry Pi and Python programming
-</li>
-<li>
-Course overview, policies and deliverables
-</li>
-<li>
-<a href="./Week0.html" style="color:red;" target="_blank">Week-0 Notes</a>
-</li>
-<!-- ![Week-0 Notes](Week0.qmd) -->
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Getting familiar with the Raspberry Pi 4B
-</li>
-<li>
-Python programming using Thonny
-</li>
-<li>
-<strong>No HW assigned in this week</strong>
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
-          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> -->
-</ul>
-</td>
-<td>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr>
-<th scope="row">
-Week 1 [01/26/2024]
-</th>
-<td>
-<ul>
-<li>
-Overview of computing in IoT
-</li>
-<li>
-Differences in Cloud and Fog computing
-</li>
-<li>
-What is Edge Computing and Edge Compute device
-</li>
-<li>
-Guest lecture: <strong>Edge Cloud</strong> by <a href="https://www.seas.gwu.edu/timothy-wood" target="_blank">Prof.&nbsp;Tim Wood</a>, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a>
-</li>
-<li>
-<a href="./Week1.html" style="color:red;" target="_blank">Week-1 Notes</a>
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Setting up the Edge Lab
-</li>
-<li>
-Understanding the Python installation on the Raspberry Pi
-</li>
-<li>
-Some basic Python programming constructs
-</li>
-<li>
-First steps in Raspberry Pi programming [Blinking LEDs]
-</li>
-<li>
-<strong>No HW assigned in this week</strong>
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
-          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li>  -->
-</ul>
-</td>
-<td>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row" style="color:black">
-Week 2 [02/02/2024]
-</th>
-<td>
-<ul>
-<li style="color:black">
-Python skelton code for running programs on the Raspberry Pi
-</li>
-<li style="color:black">
-Recap of some programming constructs
-</li>
-<li style="color:black">
-Using Thonny to blink LEDs
-</li>
-<li style="color:black">
-Using bash script to blink LEDs
-</li>
-<li style="color:black">
-<a href="./Week2.html" style="color:red;" target="_blank">Week-2 Notes</a>
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>  -->
-</ul>
-</td>
-<td>
-<ul>
-<li style="color:black">
-Configuring the GPIO interface on your Raspberry Pi
-</li>
-<li style="color:black">
-In-class Raspberry Pi Lab (Blinking LEDs)
-</li>
-<li style="color:black">
-Setting up a Python virtual environment [venv] and it’s benefits
-</li>
-<li style="color:black">
-Installing Python GPIO packages with pip in [venv]
-</li>
-<li style="color:black">
-<strong>Blinking LEDs on boot [Graded Lab Activity]</strong>
-</li>
-<li>
-<strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW1: Guest Lecture Summary [Download Template]</a></strong>
-</li>
-<p><strong style="color:black">HW1 Assigned: 02/04/2024; HW1 Due: 02/09/2024</strong></p>
-<!-- <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
-          <li>HW 1 due</li>
-          <li><a href="https://drive.google.com/drive/folders/1CxLrXRJWuxXs9b0EGe7dtjVMMIDOgh7P?usp=sharing" target="_blank">HW 2 assigned</li> -->
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-Week 3 [02/09/2024]
-</th>
-<td>
-<ul>
-<li>
-IoT Architecture and Ecosystem
-</li>
-<li>
-Layers in IoT systems - 3 level layer model
-</li>
-<li>
-Sensors
-</li>
-<li>
-Sensor types and considerations
-</li>
-<li>
-Understanding Analog and Digital Signals
-</li>
-<li>
-Fundamentals of signal visualization in time and frequency
-</li>
-<li>
-Guest lecture: <a href="./Week3-Parmer-Lecture.html" target="_blank"><strong>Designing high-confidence embedded systems – operating systems and real-time</strong></a> by <a href="https://faculty.cs.gwu.edu/gparmer/" target="_blank">Prof.&nbsp;Gabe Parmer</a>, CS Department, GWU. <a href="https://composite.seas.gwu.edu" target="_blank">Parmer Lab</a>
-</li>
-<li>
-<a href="./Spring2023_MidtermProjects.html" style="color:red;" target="_blank">Spring 2023 Midterm Project for Review</a>
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>  -->
-</ul>
-</td>
-<td>
-<ul>
-<li>
-In-class Raspberry Pi Lab (Ultrasound sensors)
-</li>
-<li>
-Proxmity sensing using Thonny IDE
-</li>
-<!--           <li>Proxmity sensing using bash script</li>
- -->
-<li style="color:black">
-<strong>Proxmity sensing on boot [Graded Lab Activity]</strong>
-</li>
-<li>
-<strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW2.1: Guest Lecture Summary [Download Template]</a></strong>
-</li>
-<strong>HW2.1 Assigned: 02/09/2024; HW2.1 Due: 02/16/2024</strong>
-<li>
-<strong><a href="Downloads/Midterm_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW2.2: Midterm Project Proposal [Download Template]</a></strong>
-</li>
-<strong>HW2.2 Assigned: 02/09/2024; HW2.2 Due: 02/18/2024</strong> <!--           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
-          <li>HW 2 due</li>
-          <li><a href="https://drive.google.com/drive/folders/1GBfK0bdTBG1bZ6pfE7bMp7C-0M_ezPw5?usp=share_link" target="_blank">HW 3 assigned</li>  -->
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-Week 4 [02/16/2024]
-</th>
-<td>
-<ul>
-<!-- <li>IoT Architecture and Ecosystem</li>
-          <li>Layers in IoT systems - 3 level  layer model</li>
-          <li>Sensors</li>
-          <li>Sensor types and considerations</li>
-          <li>Understanding Analog and Digital Signals</li>
-          <li>Fundamentals of signal visualization in time and frequency</li>       -->
-<li>
-Guest lecture: <strong>Anatomy of a real life IoT attack - Side Channel Attack (SCA) Analysis</strong> by <a href="./Lectures_Speakers/Chowdary-bio-Feb162024.pdf" target="_blank">Chowdary Yanamadala</a>, Technology Strategist <a href="https://arm.com" target="_blank">ARM</a>
-</li>
-<li>
-Discussion of Midterm Projects and setting course for updates and reporting
-</li>
-<!--           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>  -->
-</ul>
-</td>
-<td>
-<ul>
-<li>
-dweet.io - it’s like the Twitter of Things <a href="https://dweet.io" target="_blank"> dweet</a>
-</li>
-<li>
-Fetching data from dweet
-</li>
-<li style="color:black">
-<strong>dweet an LED - Your first IoT program [Graded Lab Activity]</strong>
-</li>
-<li style="color:black">
-<strong>Raspberry Pi messaging with Python scripts [Graded Lab Activity]</strong>
-</li>
-<li>
-<strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW3: Guest Lecture Summary [Download Template]</a></strong>
-</li>
-<strong>HW3 Assigned: 02/16/2024; HW3 Due: 02/23/2024</strong>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-Week 5 [02/23/2024]
-</th>
-<td>
-<ul>
-<li>
-Guest lecture: <strong>Intersection of Industry 4.0 and Technology for Manufacturing in day-to-day applications</strong> by <a href="./Lectures_Speakers/HadiImran-bio-Feb232024.pdf" target="_blank">Hadi Mohammed</a>, Digital Technologies Director of Factory 4.0 <a href="https://prattwhitney.com" target="_blank">Pratt and Whitney</a>
-</li>
-<li>
-IoT Taxonomy - 5 layer model
-</li>
-<li>
-Service-oriented model of IoT
-</li>
-<li>
-Discussion of Midterm Projects and setting course for updates and reporting
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li style="color:black">
-<strong>In-class Flask API development [Graded Lab Activity]</strong>
-</li>
-<li>
-<strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW4: Guest Lecture Summary [Download Template]</a></strong>
-</li>
-<strong>HW4 Assigned: 02/23/2024; HW4 Due: 03/01/2024</strong>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-Week 6 [02/23/2024]
-</th>
-<td>
-<ul>
-<li>
-Guest lecture: <strong>Empowering IoT and Edge Computing with Design Thinking</strong> by <a href="./Lectures_Speakers/Nuzum-bio-Feb2024.pdf" target="_blank">Scott Nuzum</a>, Senior Leader <a href="https://www.innovyzusa.com" target="_blank">Innovyz USA</a>
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-<strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW5: Guest Lecture Summary [Download Template]</a></strong>
-</li>
-<strong>HW5 Assigned: 03/01/2024; HW5 Due: 02/08/2024</strong>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-primary">
-<th scope="row">
-03/08/2024
-</th>
-<td colspan="2" style="text-align: center">
-Midterm Project Presentations. Midterm Project Report and Live Demos due.
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-primary">
-<th scope="row">
-03/11/2024 to 03/16/2024
-</th>
-<td colspan="2" style="text-align: center">
-Spring Break. No class this week
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-</tbody>
-</table>
+<p><embed src="Notes/IIOT_GWU_presentation_02172024.pdf" style="width:100.0%" height="800"></p>
 <footer>
 <p>
 This is a Quarto website. To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.<br> Author: Kartik Bulusu<br> Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br> © 2024 All rights reserved
