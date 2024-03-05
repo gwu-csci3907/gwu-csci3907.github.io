@@ -11,7 +11,7 @@ format: html
 <div class="card-body">
 <h4 class="card-title">Guest Lecture Report</h4>
 <p>Download: <a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">One-page Guest Lecture Summary Template</a></p> 
-<h4 class="card-title">ACM Conferene Paper Template</h4>
+<h4 class="card-title">ACM Conference Paper Template</h4>
 <p>Download: <a href="Downloads/LastName_HW_paper_review.docx" style="color:red;" target="_blank">Paper Review / Report</a></p> 
 <h4 class="card-title">Midterm Project Proposal</h4>
 <p>Download: <a href="Downloads/Midterm_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">Midterm Project Proposal</a></p> 
