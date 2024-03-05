@@ -218,7 +218,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
     </tr>
 
 <tr class="table-secondary">
-      <th scope="row">Week 6 [02/23/2024]</th>
+      <th scope="row">Week 6 [03/01/2024]</th>
       <td>
         <ul>
           <li>Guest lecture: <a href="Week6-Nuzum-Innovyz-Lecture.qmd" target="_blank">**Empowering IoT and Edge Computing with Design Thinking**</a> by <a href="/Lectures_Speakers/Nuzum-bio-Feb2024.pdf"
@@ -240,7 +240,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <!--- <td>Column content</td> -->
     </tr>
 <tr class="table-primary">
-      <th scope="row"> Week 6 [03/08/2024]</th>
+      <th scope="row"> Week 7 [03/08/2024]</th>
       <td colspan="2" style="text-align: center">Midterm Project Presentations and Live Demos due.
       <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a>
       </strong>
