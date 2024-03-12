@@ -257,7 +257,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <!--- <td>Column content</td> -->
     </tr>
 <tr class="table-primary">
-      <th scope="row">[03/11/2024] to [03/16/2024]</th>
+      <th scope="row"> Week 8 [03/11/2024] to [03/16/2024]</th>
       <td colspan="2" style="text-align: center">Spring Break. No class this week</td> 
       <!--- <td>Column content</td> -->
     </tr>
