@@ -275,7 +275,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>
         <ul>
            <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW6.1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW6.1 Assigned: 03/22/2024; HW6.1 Due: 03/29/2024</strong>
-           <li><strong><a href="Downloads/Final_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW6.2: Final Project Proposal [Download Template]</a></strong></li> <strong>HW6.2 Assigned: 03/13/2024; HW6.2 Due: 03/21/2024</strong>
+           <li><strong><a href="Downloads/Final_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW6.2: Final Project Proposal [Download Template]</a></strong></li> <strong>HW6.2 Assigned: 03/18/2024; HW6.2 Due: 03/24/2024</strong>
         </ul>
       </td>
     </tr>    
