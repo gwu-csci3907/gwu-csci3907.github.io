@@ -39,7 +39,7 @@ format: html
  <div class="column">
  <!-- "float: left;  -->
  <img src="/images/20160728facultybioshots_SEAS_GWU_40.jpg" alt="instructor" style="object-fit:contain width:400px;height:400px; margin-right: 10px;" /><br><br><br><br>
- <p><strong>Campus Address:</strong> Currently SEH 3640</p>
+ <p><strong>Campus Address:</strong> SEH 4615</p>
  <p><strong>E-mail:</strong> bulusu at gwu dot edu</p>
  </div>
 </div>
