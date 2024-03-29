@@ -1,0 +1,21 @@
+---
+title: "Week-10: Remy Pottier's Guest Lecture"
+format html:
+---
+**This presentation for internal viewing and referencing only. Redistribution of the presentation is not permitted.**
+
+Pottier, Remy (2024, March 29). Introduction to the Internet of Things, CSCI4907 Introduction to IoT and Edge Computing Applications [Intro. to IoT and Edge Comput. App.]. Department of Computer Science, The George Washington University. [https://gwu-csci3907.github.io](https://gwu-csci3907.github.io)
+
+::: {.callout-note appearance="simple"}
+**This presentation was made by Remy Pottier, Director of Innovation, ARM for CSCI 4907-Spring 2024.**
+:::
+![](Notes/Introduction_to_the_Internet_of_Things_GWUMarch2024.pdf){width="100%" height="800px"}
+
+<footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2024 All rights reserved</p>
+</footer>
+
+
