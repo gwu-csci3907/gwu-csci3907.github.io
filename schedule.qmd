@@ -309,9 +309,6 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>In-class Raspberry Pi Lab with ESP32</li>
           <li>Push-botton LEDs with ESP32 and Raspberry Pi 4B</li>
           <li><strong>Webserver Accesspoint with ESP32 and Raspberry Pi 4B [Graded Lab Activity]</strong></li>
-          <li>Working with senseHAT data and matplotlib</li>
-          <li>Writing senseHAT data to CSV files</li>
-          <li>Emails alerts from senseHAT data</li>
           <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW7: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW7 Assigned: 03/29/2024; HW7 Due: 04/05/2024</strong>
         </ul>
       </td>
@@ -335,6 +332,9 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           <li>In-class Raspberry Pi Lab - Installation of Mosquitto MQTT</li>
           <li>Data smoothing with Scipy library in Python</li>
           <li>Examples: Moving average and Savitzky-Golay filters</li>
+          <li>Working with senseHAT data and matplotlib</li>
+          <li>Writing senseHAT data to CSV files</li>
+          <li>Emails alerts from senseHAT data</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 8 due</li>
         </ul>
