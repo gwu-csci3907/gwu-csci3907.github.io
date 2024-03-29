@@ -271,16 +271,17 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
           target="_blank">Psymetis Inc.</a></li> 
             <li> Discussion on Final Projects and setting course for updates and reporting</li>
             <li>Pending midterm project demos</li> 
+            <li>Understand key differences between Microprocessors and Microcontrollers</li>
+            <li>Introduction to Micropython</li>
 <!-- <a href="Week9-Shaughnessy-Pysmetis-Lecture.qmd" target="_blank"></a>  -->
-
-
-<!--        <li>Guest lecture: <a href="Week3-Parmer-Lecture.qmd" target="_blank">**Designing high-confidence embedded systems -- operating systems and real-time**</a> by <a href="https://faculty.cs.gwu.edu/gparmer/"target="_blank">Prof. Gabe Parmer</a>, CS Department, GWU. <a href="https://composite.seas.gwu.edu" target="_blank">Parmer Lab</a></li>   -->
 
         </ul>
       </td>
       <td>
         <ul>
           <li>Introduction to the ESP32 microcontroller</li>
+          <li>Setting up Micropython interpreter in Thonny IDE </li>
+          <li>Flashing the ESP32 microcontroller</li>
           <li><strong>In-class lab set-up of ESP32 microcontroller with the Raspberry Pi 4B [Graded Lab Activity]</strong></li>
            <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW6.1: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW6.1 Assigned: 03/22/2024; HW6.1 Due: 03/29/2024</strong>
            <li><strong><a href="Downloads/Final_Project_Proposal_CS4907.docx" style="color:red;" target="_blank">HW6.2: Final Project Proposal [Download Template]</a></strong></li> <strong>HW6.2 Assigned: 03/18/2024; HW6.2 Due: 03/25/2024</strong>
@@ -289,6 +290,58 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         </ul>
       </td>
     </tr>    
+
+    <tr class="table-light">
+      <th scope="row">Week 10 [03/29/2023]</th>
+      <td>
+        <ul>
+        <li>Guest lecture: **The ARM Introduction to the Internet of Things** by  <a href="/Lectures_Speakers/RemyPottier-bio-March2024.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li>
+        <li>Review: Set up ESP32 microcontroller and Micropython interpreter</li>
+        <li>Review: Flashing the ESP32 microcontroller</li>
+        </ul>
+<!--         <li>Guest lecture: <a href="Week6-Nuzum-Innovyz-Lecture.qmd" target="_blank">**Empowering IoT and Edge Computing with Design Thinking**</a> by <a href="/Lectures_Speakers/Nuzum-bio-Feb2024.pdf"
+        target="_blank">Scott Nuzum</a>, Senior Leader, <a href="https://www.innovyzusa.com"
+        target="_blank">Innovyz USA</a></li>  -->
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab with ESP32</li>
+          <li>Push-botton LEDs with ESP32 and Raspberry Pi 3B+</li>
+          <li>Webserver Accesspoint with ESP32 and Raspberry Pi 3B+</li>
+          <li>Working with senseHAT data and matplotlib</li>
+          <li>Writing senseHAT data to CSV files</li>
+          <li>Emails alerts from senseHAT data</li>
+          <li><strong><a href="Downloads/LastName_ExecutiveSummary.docx" style="color:red;" target="_blank">HW7: Guest Lecture Summary [Download Template]</a></strong></li> <strong>HW7 Assigned: 03/29/2024; HW7 Due: 04/05/2024</strong>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+
+<!--     <tr class="table-primary">
+      <th scope="row">Week 11 [03/31/2023]</th>
+      <td>
+        <ul>
+          <li>Details on IoT Communication layers</li>
+          <li>Working with Scikit</li>
+
+          <li>Working with SciPy</li>
+          <li>Practical introduction to Mosquitto MQTT</li>
+          <li>Practical introduction to linear algebra in the Edge compute framework</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-class Raspberry Pi Lab - Installation of Mosquitto MQTT</li>
+          <li>Data smoothing with Scipy library in Python</li>
+          <li>Examples: Moving average and Savitzky-Golay filters</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 8 due</li>
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
+
 
   </tbody>
 </table>
