@@ -307,7 +307,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>
         <ul>
           <li>In-class Raspberry Pi Lab with ESP32</li>
-          <li>Push-botton LEDs with ESP32 and Raspberry Pi 3B+</li>
+          <li>Push-botton LEDs with ESP32 and Raspberry Pi 4B</li>
           <li><strong>Webserver Accesspoint with ESP32 and Raspberry Pi 4B [Graded Lab Activity]</strong></li>
           <li>Working with senseHAT data and matplotlib</li>
           <li>Writing senseHAT data to CSV files</li>
