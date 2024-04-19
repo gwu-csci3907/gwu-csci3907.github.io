@@ -342,28 +342,29 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <!--- <td>Column content</td> -->
     </tr>
 
-<!--     <tr class="table-primary">
-      <th scope="row">Week 11 [03/31/2023]</th>
+<tr class="table-primary">
+      <th scope="row">Week 12 [04/11/2024]</th>
       <td>
         <ul>
-          <li>Details on IoT Communication layers</li>
-          <li>Working with Scikit</li>
-
+          <li>Implementation of MQTT using ThingSpeak</li>
+          <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li>
+<!--           <li>Working with Scikit</li>
           <li>Working with SciPy</li>
           <li>Practical introduction to Mosquitto MQTT</li>
-          <li>Practical introduction to linear algebra in the Edge compute framework</li>
+          <li>Practical introduction to linear algebra in the Edge compute framework</li> -->
         </ul>
       </td>
       <td>
         <ul>
-          <li>In-class Raspberry Pi Lab - Installation of Mosquitto MQTT</li>
-          <li>Data smoothing with Scipy library in Python</li>
-          <li>Examples: Moving average and Savitzky-Golay filters</li>
-          <li>Working with senseHAT data and matplotlib</li>
+          <li>In-class Raspberry Pi Lab - Installation of Paho MQTT</li>
+          <li>Demonstration of SenseHat sensor module</li>
+          <li>Implementation of ThingSpeak MQTT with SenseHat</li>
+          <li><strong>No HW announced and nothing is due on 04/19/2024</strong></li>
+ <!--          <li>Working with senseHAT data and matplotlib</li>
           <li>Writing senseHAT data to CSV files</li>
           <li>Emails alerts from senseHAT data</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
-          <li>HW 8 due</li>
+          <li>HW 8 due</li> -->
         </ul>
       </td>
       <!--- <td>Column content</td> -->
