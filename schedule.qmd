@@ -358,7 +358,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>
           <li>In-class Raspberry Pi Lab - Installation of Paho MQTT</li>
           <li>Demonstration of SenseHat sensor module</li>
-          <li>Implementation of ThingSpeak MQTT with SenseHat</li>
+          <li><strong>In-class Raspberry Pi Lab - Implementation of ThingSpeak MQTT with SenseHat[Graded Lab Activity]</strong></li>
           <li><strong>No HW announced and nothing is due on 04/19/2024</strong></li>
  <!--          <li>Working with senseHAT data and matplotlib</li>
           <li>Writing senseHAT data to CSV files</li>
@@ -370,7 +370,53 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <!--- <td>Column content</td> -->
     </tr>
 
+<tr class="table-primary">
+      <th scope="row">Week 13 [04/19/2024]</th>
+      <td>
+        <ul>
+        <li>Guest lecture: <a href="Week13-Rodley-SnapCore-Lecture.qmd" target="_blank"> **Post model Edge AI for Fisheries management**</a> by  <a href="/Lectures_Speakers/ChrisRodley-bio-April2024.pdf" target="_blank">Chris Rodley</a>, CEO and Founder, Snap Information Technologies Ltd., <a href="www.snapcore.co" target="_blank">SnapCore</a></li>
+          <li>Implementation of MQTT using Paho</li>
+          <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-13 Notes</a></li>
+<!--           <li>Working with Scikit</li>
+          <li>Working with SciPy</li>
+          <li>Practical introduction to Mosquitto MQTT</li>
+          <li>Practical introduction to linear algebra in the Edge compute framework</li> -->
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Installation checks for Paho MQTT</li>
+          <li>Demonstration MQTT using Paho-MQTT </li>
+          <li><strong>In-class Raspberry Pi Lab – Publish and Subscribe Messages using Paho MQTT [Graded Lab Activity]</strong></li>
+          <li><strong>HW8 Assigned: 04/19/2024; HW8 Due: 05/01/2024</strong></li>
+ <!--          <li>Working with senseHAT data and matplotlib</li>
+          <li>Writing senseHAT data to CSV files</li>
+          <li>Emails alerts from senseHAT data</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 8 due</li> -->
+        </ul>
+      </td>
+      <!--- <td>Column content</td> -->
+    </tr>
 
+<tr class="table-primary">
+      <th scope="row"> Week 14 [04/26/2024]</th>
+      <td colspan="2" style="text-align: center">Final Project Presentations and Live Demos due.
+      <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Final project presentation template [Download Template]</a>
+      </strong>
+      </td> 
+      <!--- <td>Column content</td> -->
+    </tr>    
+
+<tr class="table-primary">
+      <th scope="row"> [05/01/2024]</th>
+      <td colspan="2" style="text-align: center">Final Project Report due.
+      <br><strong><a href="Downloads/LastName_HW_paper_review.docx" style="color:red;" target="_blank">Final project report template [Download Template]</a>
+      </strong>
+      <br><strong><a href="Downloads/AlZaabi_AlmayoofSpring2023_ProjectReport.pdf" style="color:red;" target="_blank">Sample project report</a>
+      </strong></td>
+      <!--- <td>Column content</td> -->
+    </tr>
   </tbody>
 </table>
 
