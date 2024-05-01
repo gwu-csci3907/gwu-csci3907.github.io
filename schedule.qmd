@@ -376,7 +376,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>
         <li>Guest lecture: <a href="Week13-Rodley-SnapCore-Lecture.qmd" target="_blank"> **Post model Edge AI for Fisheries management**</a> by  <a href="/Lectures_Speakers/ChrisRodley-bio-April2024.pdf" target="_blank">Chris Rodley</a>, CEO and Founder, Snap Information Technologies Ltd., <a href="www.snapcore.co" target="_blank">SnapCore</a></li>
           <li>Implementation of MQTT using Paho</li>
-          <li style="color:black"><a href="Week12.qmd" style="color:red;" target="_blank">Week-13 Notes</a></li>
+          <li style="color:black"><a href="Week13.qmd" style="color:red;" target="_blank">Week-13 Notes</a></li>
 <!--           <li>Working with Scikit</li>
           <li>Working with SciPy</li>
           <li>Practical introduction to Mosquitto MQTT</li>
